@@ -441,7 +441,7 @@ The public Streamlit app uses synthetic/demo data so it remains safe and accessi
     if VIDEO_URL:
         st.video(VIDEO_URL)
     else:
-        st.info("Optional: set CITYRIDE_VIDEO_URL to surface your 3–5 minute walkthrough.")
+        st.info("Upcoming demo.")
     st.subheader("Suggested CV entry")
     st.markdown("""
 **CityRide 360 — Microsoft Fabric Data Engineering Platform**  
