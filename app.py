@@ -4,9 +4,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import streamlit as st  # type: ignore[import-not-found]
-from dotenv import load_dotenv
 
-load_dotenv()
 
 st.set_page_config(
     page_title="CityRide 360 | Microsoft Fabric Portfolio",
