@@ -1,6 +1,6 @@
 # CityRide 360 — Microsoft Fabric DP-700 Portfolio
 
-A deployment-ready Streamlit portfolio for presenting an end-to-end Microsoft Fabric data engineering project to recruiters and interviewers.
+A deployment-ready Streamlit portfolio for presenting an end-to-end Microsoft Fabric data engineering project.
 
 ## Included
 
